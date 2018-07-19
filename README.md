@@ -157,3 +157,7 @@
 [保险干货](https://mp.weixin.qq.com/s/3uW_ErrFVoGLc3B2IkAxjQ)
 
 ## 8. [相关附件](./asset/plan.xlsx)
+
+## 9. 神秘彩蛋
+
+通过代理人购买，或者成为代理人，可以减免很多保费

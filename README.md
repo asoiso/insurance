@@ -157,8 +157,8 @@
 
 ## 7. 常见问题
 
-[保险干货](https://mp.weixin.qq.com/s/3uW_ErrFVoGLc3B2IkAxjQ)
-[图说保险，看了不懂算我输](https://mp.weixin.qq.com/s/kZirnMcAD9Yy18GeKtFBdg)
+* [保险干货](https://mp.weixin.qq.com/s/3uW_ErrFVoGLc3B2IkAxjQ)
+* [图说保险，看了不懂算我输](https://mp.weixin.qq.com/s/kZirnMcAD9Yy18GeKtFBdg)
 
 ## 8. [相关附件](./asset/plan.xlsx)
 
